@@ -1,4 +1,5 @@
-// NotificationFactory.java
+package com.notificaciones;
+
 public class NotificationFactory {
     public static Notificacion crearNotificacion(String canal, String mensaje, Usuario usuario) {
         switch (canal) {

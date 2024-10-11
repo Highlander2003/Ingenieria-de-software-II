@@ -1,4 +1,5 @@
-// Main.java
+package com.notificaciones;
+
 import java.util.Arrays;
 
 public class Main {

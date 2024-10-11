@@ -1,4 +1,5 @@
-// NotificacionSMS.java
+package com.notificaciones;
+
 public class NotificacionSMS extends Notificacion {
     private Usuario usuario;
 

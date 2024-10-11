@@ -1,4 +1,5 @@
-// NotificacionEmail.java
+package com.notificaciones;
+
 public class NotificacionEmail extends Notificacion {
     private Usuario usuario;
 
