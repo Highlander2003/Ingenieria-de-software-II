@@ -1,4 +1,5 @@
-// CanalPush.java
+package com.notificaciones;
+
 public class CanalPush implements CanalNotificacion {
     @Override
     public void enviarNotificacion(String mensaje, Usuario usuario) {

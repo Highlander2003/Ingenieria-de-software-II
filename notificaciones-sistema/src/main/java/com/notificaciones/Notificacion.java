@@ -1,4 +1,5 @@
-// Notificacion.java
+package com.notificaciones;
+
 public abstract class Notificacion {
     protected String mensaje;
 
